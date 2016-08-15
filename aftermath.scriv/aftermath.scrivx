@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Yanivs-iMac" Modified="2016-08-14 18:57:01 -0700" ModID="15504750-C96D-4DD5-8F27-2858317689E5">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Yanivs-iMac" Modified="2016-08-14 20:25:41 -0700" ModID="DA7D0977-E0F1-4D7C-A789-63D10C5538C6">
     <Binder>
         <BinderItem ID="13" UUID="D117D2BD-27F0-4C5A-93C0-F7236AC7B14A" Type="Text" Created="2016-05-20 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
             <Title>Screenplay Format</Title>
@@ -306,7 +306,7 @@
                                 <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
                             </References>
                         </BinderItem>
-                        <BinderItem ID="64" UUID="F8DBE3D0-D164-4DF7-8EC8-F24C877BC238" Type="Text" Created="2016-05-30 13:26:40 -0700" Modified="2016-07-04 11:39:19 -0700">
+                        <BinderItem ID="64" UUID="F8DBE3D0-D164-4DF7-8EC8-F24C877BC238" Type="Text" Created="2016-05-30 13:26:40 -0700" Modified="2016-08-14 20:25:41 -0700">
                             <Title>Present- Saturday daitime.</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -1415,7 +1415,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 03:44:59 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1043" Characters="5645" Date="2016-08-14 16:10:30 -0700"></PreviousSession>
+        <PreviousSession Words="1043" Characters="5647" Date="2016-08-14 20:25:29 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>A61D15BE-F960-4D19-BDBA-C875AAAAFC5C</TemplateFolderUUID>
     <AutoCompleteList>
