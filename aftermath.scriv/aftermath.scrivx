@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Yanivs-iMac" Modified="2016-08-14 20:25:41 -0700" ModID="DA7D0977-E0F1-4D7C-A789-63D10C5538C6">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Yanivs-iMac" Modified="2016-08-14 20:40:15 -0700" ModID="4DE744A4-5506-49B9-AC11-0359AA50ECA5">
     <Binder>
         <BinderItem ID="13" UUID="D117D2BD-27F0-4C5A-93C0-F7236AC7B14A" Type="Text" Created="2016-05-20 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
             <Title>Screenplay Format</Title>
@@ -221,8 +221,8 @@
                                 <TextSelection>590,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem ID="59" UUID="3852AED3-D871-4391-BB93-BCDE444ABCAB" Type="Text" Created="2016-05-27 21:49:00 -0700" Modified="2016-08-12 13:59:53 -0700">
-                            <Title>Background: develpment: 8 NOT FINISHED</Title>
+                        <BinderItem ID="59" UUID="3852AED3-D871-4391-BB93-BCDE444ABCAB" Type="Text" Created="2016-05-27 21:49:00 -0700" Modified="2016-08-14 20:40:15 -0700">
+                            <Title>Background: develpment: 8</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                                 <NotesTextSelection>0,0</NotesTextSelection>
@@ -313,7 +313,7 @@
                                 <NotesTextSelection>0,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>2,0</TextSelection>
                             </TextSettings>
                             <References>
                                 <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
@@ -1415,7 +1415,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 03:44:59 -0700" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="1043" Characters="5647" Date="2016-08-14 20:25:29 -0700"></PreviousSession>
+        <PreviousSession Words="1043" Characters="5648" Date="2016-08-14 20:37:59 -0700"></PreviousSession>
     </ProjectTargets>
     <TemplateFolderUUID>A61D15BE-F960-4D19-BDBA-C875AAAAFC5C</TemplateFolderUUID>
     <AutoCompleteList>
