@@ -1,0 +1,1541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.7-26106" Device="Yanivs-iMac" Modified="2016-08-14 18:57:01 -0700" ModID="15504750-C96D-4DD5-8F27-2858317689E5">
+    <Binder>
+        <BinderItem ID="13" UUID="D117D2BD-27F0-4C5A-93C0-F7236AC7B14A" Type="Text" Created="2016-05-20 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
+            <Title>Screenplay Format</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Information.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="0" UUID="7C45F42D-42FE-4FF9-BBA0-1A2C6B6D006C" Type="DraftFolder" Created="2016-05-20 20:48:51 -0700" Modified="2016-05-20 20:48:51 -0700">
+            <Title>Screenplay</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs></SelectedSubdocumentIDs>
+                <OutlinerExpandedState>
+                    <ItemID>19</ItemID>
+                </OutlinerExpandedState>
+                <CorkboardSettings>
+                    <FreeformMode>Yes</FreeformMode>
+                    <FreeformCorkboardDocuments>
+                        <IndexCardBinderID Position="0.096471,0.067096" TimeStamp="2016-06-05 17:27:40 -0700">19</IndexCardBinderID>
+                    </FreeformCorkboardDocuments>
+                </CorkboardSettings>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="19" UUID="0C006B2D-C12D-4EB8-85C4-0872E3E046FD" Type="Text" Created="2016-05-20 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Scenes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="91" UUID="8FF70735-B36C-4970-98F4-161DBD8E963B" Type="Text" Created="2016-06-12 18:12:21 -0700" Modified="2016-08-12 14:08:47 -0700">
+                            <Title>Fade In: Action: Action to Background</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>1384,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="45" UUID="C3A03E6A-6B90-4D20-9436-4EE5C202E421" Type="Text" Created="2016-05-24 13:59:18 -0700" Modified="2016-08-09 18:28:18 -0700">
+                            <Title>Action: Development to Climax</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>2186,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="46" UUID="C0BE8F30-F0AC-454F-B4D0-CA90108AD1DB" Type="Text" Created="2016-05-24 14:09:45 -0700" Modified="2016-08-12 15:18:55 -0700">
+                            <Title>Action:  Ending</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>950,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="103" UUID="7D0523DE-16BB-4C1F-96FE-73B339AD3CD5" Type="Text" Created="2016-06-23 14:09:23 -0700" Modified="2016-08-09 19:09:35 -0700">
+                            <Title>Background: Action: 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>1778,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="63" UUID="A0F9A1B2-81A7-4410-9225-86B8CD1C50B3" Type="Text" Created="2016-05-30 13:17:18 -0700" Modified="2016-07-08 17:19:01 -0700">
+                            <Title>Background: Action: 2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>1918,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="104" UUID="26F2D54F-1AB1-4595-8536-BBE44F558B0D" Type="Text" Created="2016-06-23 14:09:40 -0700" Modified="2016-07-04 11:39:19 -0700">
+                            <Title>Background: Action: 3 </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>4913,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="110" UUID="FFE50C2B-3AED-4D5D-A866-DA1515CE23A2" Type="Text" Created="2016-06-28 14:50:01 -0700" Modified="2016-07-12 17:06:20 -0700">
+                            <Title>Background: Background: 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>978,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="111" UUID="5DC9ED1F-9A38-443D-A19D-968B35BC81FB" Type="Text" Created="2016-06-28 14:57:09 -0700" Modified="2016-07-12 17:10:20 -0700">
+                            <Title>Background: Background: 2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>1636,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="33" UUID="F2822AE3-AF77-4B5A-9044-587FBB2A6319" Type="Text" Created="2016-05-23 20:08:00 -0700" Modified="2016-07-12 20:20:32 -0700">
+                            <Title>Background: Development: 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>730,240</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="112" UUID="8DBA9B20-309D-42CD-A125-AD46533A4CD2" Type="Text" Created="2016-07-02 11:37:42 -0700" Modified="2016-07-08 17:21:21 -0700">
+                            <Title>Background: Development: 2 </Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>1637,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="113" UUID="60DBF8B9-87A6-4E55-ACB0-8F41B751A9B0" Type="Text" Created="2016-07-02 13:59:52 -0700" Modified="2016-07-12 20:23:15 -0700">
+                            <Title>Background: development: 3</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>1893,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="116" UUID="5E097696-0535-4D21-9EC8-43202F8AEB76" Type="Text" Created="2016-07-04 17:00:43 -0700" Modified="2016-07-12 20:25:06 -0700">
+                            <Title>Background: development: 4</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>325,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="114" UUID="0EA6FBFC-ECE8-4340-85B7-C33684E92DAD" Type="Text" Created="2016-07-02 14:21:46 -0700" Modified="2016-07-12 20:31:10 -0700">
+                            <Title>Background: development: 5</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>3195,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="115" UUID="2C4B7E8A-69AF-425F-A020-B999735E4CB1" Type="Text" Created="2016-07-04 11:30:27 -0700" Modified="2016-07-12 20:39:33 -0700">
+                            <Title>Background: development: 6</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>139,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="118" UUID="4176BB95-F86F-46E1-AEB5-F7D866575712" Type="Text" Created="2016-07-06 13:18:32 -0700" Modified="2016-08-14 16:21:13 -0700">
+                            <Title>Background: development: 7</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>590,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="59" UUID="3852AED3-D871-4391-BB93-BCDE444ABCAB" Type="Text" Created="2016-05-27 21:49:00 -0700" Modified="2016-08-12 13:59:53 -0700">
+                            <Title>Background: develpment: 8 NOT FINISHED</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>779,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="119" UUID="24935F8C-C4CB-4CC2-ACCE-B9DEFBE0E96A" Type="Text" Created="2016-07-13 06:00:05 -0700" Modified="2016-08-09 18:01:00 -0700">
+                            <Title>Background: climax</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>5864,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="48" UUID="3C559849-CB9F-4B15-A89D-55D5636F9A92" Type="Text" Created="2016-05-24 14:19:35 -0700" Modified="2016-07-04 11:39:19 -0700">
+                            <Title>Present- Friday- back home</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="49" UUID="DF203C6D-38E1-4EBE-B644-0F06D5307608" Type="Text" Created="2016-05-24 15:00:38 -0700" Modified="2016-07-04 11:39:19 -0700">
+                            <Title>Present- Saturday daytime- Patrick house</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="50" UUID="56C5BD12-397B-49FA-A211-F2C1945DBEC3" Type="Text" Created="2016-05-24 15:09:20 -0700" Modified="2016-08-14 18:10:59 -0700">
+                            <Title>Development: background to development : 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>5680,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="51" UUID="65CB1F50-AB5B-4566-A8AB-8747E2B1E8E9" Type="Text" Created="2016-05-24 18:04:58 -0700" Modified="2016-07-31 11:09:52 -0700">
+                            <Title>Development:  Development NOT FINISHED</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>0,1270</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="64" UUID="F8DBE3D0-D164-4DF7-8EC8-F24C877BC238" Type="Text" Created="2016-05-30 13:26:40 -0700" Modified="2016-07-04 11:39:19 -0700">
+                            <Title>Present- Saturday daitime.</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="55" UUID="60769E51-8827-426D-A096-F34543760281" Type="Text" Created="2016-05-24 20:34:21 -0700" Modified="2016-07-04 11:39:19 -0700">
+                            <Title>Present- Saterday eve 1</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="56" UUID="3AD25846-DF83-4BE8-B9E2-713EBCD87E10" Type="Text" Created="2016-05-24 20:40:56 -0700" Modified="2016-07-04 11:39:19 -0700">
+                            <Title>Present- Saturday eve 2</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="57" UUID="48C3F1DA-30FC-45E4-BEF1-F93ED8069641" Type="Text" Created="2016-05-24 20:42:56 -0700" Modified="2016-07-31 08:39:00 -0700">
+                            <Title>Climax: Action</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>2235,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="120" UUID="678B4E9B-F27D-45DA-A819-D2B54A66F59D" Type="Text" Created="2016-07-24 10:43:54 -0700" Modified="2016-07-28 16:42:21 -0700">
+                            <Title>Climax: Background</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>3670,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="75" UUID="133BD215-20A9-41E8-9E50-0B18136A27B6" Type="Text" Created="2016-05-31 15:15:38 -0700" Modified="2016-07-25 20:03:50 -0700">
+                            <Title>Climax: Development to Ending</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>1335,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="77" UUID="D90FD891-9284-4F8B-86FE-9C5AB14A9BE8" Type="Text" Created="2016-05-31 15:23:46 -0700" Modified="2016-07-04 11:39:19 -0700">
+                            <Title>Present- Later that week- Patrick back in the city</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="79" UUID="0CB31116-EA8B-4C46-9CFB-B1A87557A4FE" Type="Text" Created="2016-05-31 15:39:49 -0700" Modified="2016-08-03 16:47:06 -0700">
+                            <Title>Ending: Climax to ending</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextMode>Script</TextMode>
+                                <TextSelection>3076,0</TextSelection>
+                            </TextSettings>
+                            <References>
+                                <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                                <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                            </References>
+                        </BinderItem>
+                        <BinderItem ID="84" UUID="F1BA2234-6D99-44B0-A5D1-A79C2322E452" Type="Text" Created="2016-06-04 13:34:14 -0700" Modified="2016-07-04 11:39:19 -0700">
+                            <Title>Ending soundtrack</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="22" UUID="5307BF32-97FD-4486-99E1-CC046742231E" Type="Folder" Created="2016-05-20 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
+            <Title>Front Matter</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Front Matter.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>5</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="5" UUID="07FC6812-17B6-44C0-BBB1-FA33ACE59E64" Type="Text" Created="2016-05-20 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Title Page</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CompileAsIs>Yes</CompileAsIs>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>53,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="18" UUID="0644FED4-95D1-4F09-9657-B1083B1681AB" Type="Folder" Created="2016-05-20 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
+            <Title>Characters</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Characters (Photo).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>85</SelectedSubdocumentIDs>
+            </CorkboardAndOutliner>
+            <DefaultChildTemplateID>15</DefaultChildTemplateID>
+            <Children>
+                <BinderItem ID="23" UUID="45263175-1A0A-4927-9494-40F5F7DC13F2" Type="Text" Created="2016-05-20 20:50:27 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Patrick Hill</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>12,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="25" UUID="D5E53FAA-7D36-44AC-824D-E92C2CE54D30" Type="Text" Created="2016-05-22 07:49:44 -0700" Modified="2016-07-14 13:58:22 -0700">
+                    <Title>Marcus Gibson</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>584,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="26" UUID="3D2D1070-6027-4A00-8BFC-E0B0A71ABC94" Type="Text" Created="2016-05-23 14:48:15 -0700" Modified="2016-07-17 17:55:20 -0700">
+                    <Title>Josh</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="85" UUID="AF074E3B-0A98-46EF-95AF-48783B6E9EF4" Type="Text" Created="2016-06-05 17:42:39 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Nicolas NOT FINISHED</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>59,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="27" UUID="8F7C462D-6E2F-4938-8252-EED1AE5ADC74" Type="Text" Created="2016-05-23 16:10:48 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Kevin</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>419,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="28" UUID="8A28B034-4020-4CBE-864C-D984721F97F9" Type="Text" Created="2016-05-23 16:20:16 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>John</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>70,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="29" UUID="57F44056-1598-41FF-86B8-ADD6879277B4" Type="Text" Created="2016-05-23 16:27:41 -0700" Modified="2016-08-05 20:58:22 -0700">
+                    <Title>Sarah</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>527,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="80" UUID="DB7557CC-5B70-4AD8-927D-A41DFD42B9A0" Type="Text" Created="2016-05-31 15:54:30 -0700" Modified="2016-07-06 13:31:10 -0700">
+                    <Title>Katie</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>85,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="30" UUID="AE13E7B7-4F84-49A6-9CF9-ACB63DD33834" Type="Text" Created="2016-05-23 18:23:41 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Hermes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>552,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="43" UUID="9A0DED23-7E66-4642-ABA2-AFF49C183A36" Type="Text" Created="2016-05-24 13:52:05 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Drag quine 1 NOT FINISHED</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>12,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="44" UUID="BDB9727A-28A2-4D0D-A15D-C313028038FA" Type="Text" Created="2016-05-24 13:52:16 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Drag quine 2 NOT FINISHED</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>84,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="36" UUID="386809DF-8D75-4DBE-919E-4013F637134A" Type="Text" Created="2016-05-24 13:05:37 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Pastor O'GRADY</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>5,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="81" UUID="3117BC31-593A-4573-8468-ED25AF23EFF1" Type="Text" Created="2016-05-31 16:07:19 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Josh Girlfriend NOT FINISHED</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>217,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="109" UUID="7994165D-7AA9-4260-A2C3-4CCE9B231CDC" Type="Text" Created="2016-06-28 14:43:56 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Hope Taylor</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>32,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="17" UUID="DA051384-CDC3-48CF-8B65-8495DEFCBE83" Type="Folder" Created="2016-05-20 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
+            <Title>Places</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Locations (Map).tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <DefaultChildTemplateID>16</DefaultChildTemplateID>
+            <Children>
+                <BinderItem ID="24" UUID="16E9D307-4D71-483F-B842-576DAE9996EE" Type="Text" Created="2016-05-20 20:50:41 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Name of Setting</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>33,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="865AE226-AD0C-4E7E-8A47-275087A9FC08" Type="ResearchFolder" Created="2016-05-20 20:48:51 -0700" Modified="2016-05-20 20:48:51 -0700">
+            <Title>Research</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="21" UUID="15D9B1BF-B146-40AE-BCE1-F89F4A8038C1" Type="PDF" Created="2016-05-20 20:48:51 -0700" Modified="2016-05-20 20:48:51 -0700">
+                    <Title>Sample Script</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="14" UUID="A61D15BE-F960-4D19-BDBA-C875AAAAFC5C" Type="Folder" Created="2016-05-20 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
+            <Title>Template Sheets</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <NotesTextSelection>0,0</NotesTextSelection>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="15" UUID="E201238D-A92F-4403-8A1D-73EF32044AAA" Type="Text" Created="2016-05-20 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Character Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <ShowSynopsisImage>Yes</ShowSynopsisImage>
+                        <IconFileName>Characters (Character Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>32,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="16" UUID="C4B52396-E310-436F-98BE-1751C2C3B5F2" Type="Text" Created="2016-05-20 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Setting Sketch</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                        <IconFileName>Locations (Location Sheet).tiff</IconFileName>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>33,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="65E239BE-9290-4933-BC2E-78AE7C5E6213" Type="TrashFolder" Created="2016-05-20 20:48:51 -0700" Modified="2016-05-20 20:48:51 -0700">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="60" UUID="D55A50BE-7564-4249-A695-E3AADB58A4BB" Type="Text" Created="2016-05-29 20:07:01 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>New Scene- Family</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="66" UUID="F0970011-A55B-484A-9833-E18819EE1D4D" Type="Text" Created="2016-05-30 13:36:35 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's Pre-breaking point</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="70" UUID="93C14357-4BA9-494C-99F4-24D61468A4CF" Type="Text" Created="2016-05-30 14:03:48 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's - that day 3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="35" UUID="B0EEFF0A-64AD-4548-AD16-EA302472CC5F" Type="Text" Created="2016-05-24 13:02:46 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80s Hermes' Fantasy 1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="52" UUID="9DDE8DED-4F88-454C-9B16-0F9D3167E83A" Type="Text" Created="2016-05-24 18:48:58 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80s class swimming lesson 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="34" UUID="44AF677A-FE4C-4DD6-93B6-6DF22ED23BC5" Type="Text" Created="2016-05-23 20:12:18 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's Class scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="53" UUID="E324B9A1-FDA1-4EAF-901A-C370AD97D169" Type="Text" Created="2016-05-24 19:18:09 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80s after pool</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="47" UUID="4FB922EA-D29F-4DA3-A7AD-FFE56E930F64" Type="Text" Created="2016-05-24 14:16:11 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's- day</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="82" UUID="B5F82918-FBEB-4F21-95D4-932D894B2A36" Type="Text" Created="2016-05-31 20:35:48 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="89" UUID="A554B0E7-4CFB-4039-8E0E-1F9591A30AF9" Type="Text" Created="2016-06-12 18:11:02 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="90" UUID="8B221176-4D30-4F55-A3CC-4F359D2AFB30" Type="Text" Created="2016-06-12 18:11:31 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Fade In</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="83" UUID="C571C55B-83C6-4EBD-AEF4-36A7E5F86918" Type="Text" Created="2016-06-04 13:27:10 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80s- day- ordenary Sunday noon</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="95" UUID="8D1514B1-20EF-458F-AD98-04AF36A43221" Type="Text" Created="2016-06-15 18:34:14 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Ending scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>28,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="97" UUID="E48B48B5-9EA6-447E-B2C0-2FBDEAA8EF78" Type="Text" Created="2016-06-17 17:45:14 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Skates and bike</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="93" UUID="42366C22-C0C8-4488-9B04-C7DD93E3E545" Type="Text" Created="2016-06-13 18:18:22 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's The rumor</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="76" UUID="7BDAFA6D-A92E-4200-BFD8-46EB944C9882" Type="Text" Created="2016-05-31 15:22:08 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Present- Sunday afternoon- After Eric's place</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="105" UUID="72C42C84-3FC9-401D-A3F0-709B5C9627E8" Type="Text" Created="2016-06-26 10:35:43 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>New Scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="106" UUID="E2C735C9-93B8-4CA6-86F4-104E7ADD1494" Type="Text" Created="2016-06-26 11:13:37 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>General Background stage</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="107" UUID="5A2FDB1F-57C4-4C24-9E0E-16AFE64DB263" Type="Text" Created="2016-06-26 11:16:07 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>New Scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="108" UUID="400D0F3B-B357-44B7-8B63-3CFF38514185" Type="Text" Created="2016-06-26 11:16:36 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Untitled</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="31" UUID="277AF539-A347-4AC8-9709-83F2E8CF04BD" Type="Text" Created="2016-05-23 20:01:07 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's Welcome to Smallvile</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>186,806</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="62" UUID="3D36F046-14DB-4AF7-8597-8D13D0D6FEFC" Type="Text" Created="2016-05-30 12:54:18 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's Family dinner</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,846</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="94" UUID="F5FE2632-A0D6-4F73-8F4B-31CCB703564A" Type="Text" Created="2016-06-15 14:53:29 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's Dinesty NOT FINISHED</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>133,73</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="86" UUID="1D49DBDA-11B0-41FC-AE81-770C34C2D302" Type="Text" Created="2016-06-06 11:47:36 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80s Class serclue lesson + Eric anouncment </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,882</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="101" UUID="64E16A69-F7C1-493E-B162-B9C1E01086D3" Type="Text" Created="2016-06-22 15:26:24 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>New Scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="39" UUID="D2E55512-A877-4273-B9CE-96CEF4325F0C" Type="Text" Created="2016-05-24 13:28:21 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80s insults time after time - NOT FINISHED</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="38" UUID="69EC3C02-2E38-4E0B-9390-D0D32A20E084" Type="Text" Created="2016-05-24 13:15:57 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80s swim class</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,1553</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="99" UUID="74801EC5-D2DD-48BF-9D5D-D01A15575C72" Type="Text" Created="2016-06-18 18:03:46 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's Grocery with mom - checks are back</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,615</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="37" UUID="65FA0889-4A4C-425A-AD93-EC2600612703" Type="Text" Created="2016-05-24 13:14:18 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80s Hermes' storytale</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,2681</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="117" UUID="D8F2272B-252A-4306-ADCD-0728880D0071" Type="Text" Created="2016-07-05 12:56:26 -0700" Modified="2016-07-05 12:56:56 -0700">
+                    <Title>Background: development: 5</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="98" UUID="A0C47B7F-4D7C-4429-82E1-9B80B05952B9" Type="Text" Created="2016-06-18 18:02:35 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's Take on me</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>32,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="100" UUID="620F67A7-063D-40BD-87E8-2FDC6853BA0F" Type="Text" Created="2016-06-21 20:24:45 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's gets fired (80's crisis)</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="54" UUID="F29B2447-45DB-4859-9303-F3699EFC53C7" Type="Text" Created="2016-05-24 20:03:27 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's Patrick wondering to the community pool</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,1534</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="40" UUID="B316C39C-DCC4-489D-8DE8-AF8394A2B6A4" Type="Text" Created="2016-05-24 13:31:22 -0700" Modified="2016-07-04 17:00:11 -0700">
+                    <Title>80s Breaking point</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,627</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="87" UUID="50D851F2-5297-47B4-9368-268BA1D44359" Type="Text" Created="2016-06-08 17:45:52 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>New Scene</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="65" UUID="962CD7E8-00D1-4A15-8403-0F18F2C6D850" Type="Text" Created="2016-05-30 13:31:58 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Bolingball and milkshake</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="92" UUID="F00B6ED9-CC7E-4E45-9CD7-533DAAD154CA" Type="Text" Created="2016-06-13 13:58:48 -0700" Modified="2016-07-17 17:35:55 -0700">
+                    <Title>waiting for Josh</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="61" UUID="15609226-0278-4B28-8912-AE037EFE5073" Type="Text" Created="2016-05-29 20:13:07 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Josh Place 2 NOT FINISHED</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>369,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="88" UUID="73DB2C1A-DDA6-4A7E-B4FE-B9AC0DDD3D9F" Type="Text" Created="2016-06-08 17:46:38 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Throwing out of the house</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="102" UUID="58403A1C-73B4-4E14-8652-83936706237C" Type="Text" Created="2016-06-23 14:04:11 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's meeting the councler </Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="58" UUID="B67ED986-2E39-4BAF-A01C-6679BCB10949" Type="Text" Created="2016-05-24 20:48:51 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Present- Sunday late morning 1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="71" UUID="784E8DA7-0E16-4B93-82A4-5EDE7016F08D" Type="Text" Created="2016-05-30 14:16:48 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's- Eric POV1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="72" UUID="BBDFA999-6B1A-4967-8D73-3CB21D8425EE" Type="Text" Created="2016-05-30 14:19:06 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's- Eric POV 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="73" UUID="8BE8BB2B-CA12-4FB7-95BD-A9D02CE419B9" Type="Text" Created="2016-05-30 14:20:39 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's- Noon- Eric POV 3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="74" UUID="0B8EE6FF-7D4A-4C90-91B3-A65DE2F72B46" Type="Text" Created="2016-05-31 15:12:16 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Present- Sunday late morning 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="78" UUID="BE76BE76-877E-4A27-892D-6E1CE03525D6" Type="Text" Created="2016-05-31 15:28:43 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Present- Few years latter 1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="67" UUID="6FC3E5DE-89DA-4778-A82F-9B141280FB24" Type="Text" Created="2016-05-30 13:46:41 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's Back at Josh</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="68" UUID="21AA65C7-29E8-484C-98B5-92AFF59A1514" Type="Text" Created="2016-05-30 13:57:11 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's - that day 1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="69" UUID="0B088B0B-89BB-425C-8497-BDB62B31FD07" Type="Text" Created="2016-05-30 14:01:58 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>80's - that day 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="96" UUID="350F91E7-1B57-4FBD-8656-71C9155DD445" Type="Text" Created="2016-06-15 18:35:55 -0700" Modified="2016-07-28 14:17:11 -0700">
+                    <Title>Goodby Smallvile - Ending scene NOT FINISHED לשפר חבל״ז</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextMode>Script</TextMode>
+                        <TextSelection>289,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="41" UUID="F6C2D11A-5FC7-466F-A75F-170AFBBD6FC1" Type="Text" Created="2016-05-24 13:42:54 -0700" Modified="2016-08-03 14:41:44 -0700">
+                    <Title>Action: Action</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+                <BinderItem ID="42" UUID="B0B77B5C-6C6F-4896-8B84-4E321594AE5C" Type="Text" Created="2016-05-24 13:50:03 -0700" Modified="2016-07-04 11:39:19 -0700">
+                    <Title>Present- Thursday night- Church crime</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <References>
+                        <Reference BinderID="47" Destination="[Internal Link]">80's- day</Reference>
+                        <Reference BinderID="41" Destination="[Internal Link]">Present- Museum- Thursday eve</Reference>
+                    </References>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="6AE1732B-8E66-4B56-B7E2-C7B1462B31DB" Color="0.962266 0.962266 0.962266">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="68DB4E73-0B33-4FEE-9600-053ED547B6DC" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" CaseSensitive="No">mon</SearchSettings>
+        </Collection>
+    </Collections>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="1" Color="0.9 0.92 0.95">Concept</Label>
+            <Label ID="2" Color="0.985 0.875 0.85">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-04-21 03:44:59 -0700" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="1043" Characters="5645" Date="2016-08-14 16:10:30 -0700"></PreviousSession>
+    </ProjectTargets>
+    <TemplateFolderUUID>A61D15BE-F960-4D19-BDBA-C875AAAAFC5C</TemplateFolderUUID>
+    <AutoCompleteList>
+        <Completion Scope="0">Local Church</Completion>
+        <Completion Scope="2">Father O'grady</Completion>
+        <Completion Scope="2">Patrick</Completion>
+        <Completion Scope="2">Sarah</Completion>
+        <Completion Scope="0">School Yard</Completion>
+        <Completion Scope="0">Boys School Bathroom</Completion>
+        <Completion Scope="2">Kevin</Completion>
+        <Completion Scope="2">Eric</Completion>
+        <Completion Scope="0">Class</Completion>
+        <Completion Scope="2">Nicole</Completion>
+        <Completion Scope="2">John</Completion>
+        <Completion Scope="2">Katie</Completion>
+        <Completion Scope="0">Local Bar. Night</Completion>
+        <Completion Scope="0">Store Parking Lot</Completion>
+        <Completion Scope="0">Local Bar Front</Completion>
+        <Completion Scope="0">Community Pool</Completion>
+        <Completion Scope="2">Coach</Completion>
+        <Completion Scope="2">Girl No.1</Completion>
+        <Completion Scope="0">Swim Pool Bathrooms</Completion>
+        <Completion Scope="0">Community Pool Man Showers</Completion>
+        <Completion Scope="2">Josh</Completion>
+        <Completion Scope="0">Patrick's Home. Afternoon</Completion>
+        <Completion Scope="2">Harmes</Completion>
+        <Completion Scope="2">Kid</Completion>
+        <Completion Scope="2">Argus</Completion>
+        <Completion Scope="0">School Hallway</Completion>
+        <Completion Scope="0">Classroom</Completion>
+        <Completion Scope="2">SWIM Coach</Completion>
+        <Completion Scope="0">Small Town At The Mid</Completion>
+        <Completion Scope="0">Small Town At The Mid West</Completion>
+        <Completion Scope="0">Patrick's Street</Completion>
+        <Completion Scope="0">Patrick's Street Corner</Completion>
+        <Completion Scope="0">Josh Home</Completion>
+        <Completion Scope="0">Local Church Lobby</Completion>
+        <Completion Scope="0">A Beach</Completion>
+        <Completion Scope="0">Josh Car</Completion>
+        <Completion Scope="0">Patrick's Home</Completion>
+        <Completion Scope="0">Josh Car /Patrick's Street Corner</Completion>
+        <Completion Scope="0">Smallvile Main Street</Completion>
+        <Completion Scope="0">Video Store</Completion>
+        <Completion Scope="0">Baptist Church</Completion>
+        <Completion Scope="0">Hill Living Room</Completion>
+        <Completion Scope="2">Pastor O'grady</Completion>
+        <Completion Scope="2">Mrs. Cooper</Completion>
+        <Completion Scope="0">Eric's Appartment</Completion>
+        <Completion Scope="0">Eric's Apartment</Completion>
+        <Completion Scope="0">Patrick's Car</Completion>
+        <Completion Scope="2">Boy 1</Completion>
+        <Completion Scope="0">House Party</Completion>
+        <Completion Scope="2">Girl No.2</Completion>
+        <Completion Scope="0">Nicole's Room</Completion>
+        <Completion Scope="0">Nicole's Closet</Completion>
+        <Completion Scope="2">7Th Graders</Completion>
+        <Completion Scope="2">Girl No.3</Completion>
+        <Completion Scope="2">Hope</Completion>
+        <Completion Scope="0">Nicole's House</Completion>
+        <Completion Scope="2">Nicole Mom</Completion>
+        <Completion Scope="2">Nicole Dad</Completion>
+        <Completion Scope="0">Hope Parent's Car</Completion>
+        <Completion Scope="2">Hope Dad</Completion>
+        <Completion Scope="0">Family Dinner Room</Completion>
+        <Completion Scope="0">Shot</Completion>
+        <Completion Scope="0">Hope's Home</Completion>
+        <Completion Scope="2">Hope Mom</Completion>
+        <Completion Scope="2">Teacher</Completion>
+        <Completion Scope="2">Mrs. Sherwood</Completion>
+        <Completion Scope="0">Executive Office</Completion>
+        <Completion Scope="2">Executive Director</Completion>
+        <Completion Scope="2">Supervisor</Completion>
+        <Completion Scope="2">Voice</Completion>
+        <Completion Scope="2">Marcus</Completion>
+        <Completion Scope="0">School</Completion>
+        <Completion Scope="0">Bus Station Near The Pool</Completion>
+        <Completion Scope="0">School Bus</Completion>
+        <Completion Scope="2">Boy 2</Completion>
+        <Completion Scope="0">A Minimal Traditional House</Completion>
+        <Completion Scope="0">Neighbourhood Sidewalk</Completion>
+        <Completion Scope="0">Josh Car/ Patrick's Street Corner</Completion>
+        <Completion Scope="2">V. Principal</Completion>
+        <Completion Scope="2">Boy 3</Completion>
+        <Completion Scope="2">Boy 4</Completion>
+        <Completion Scope="0">Bus Station Patrick's Street</Completion>
+        <Completion Scope="0">Smallvile Central Bus Station</Completion>
+        <Completion Scope="0">Smallvile Highway</Completion>
+        <Completion Scope="2">Kevin's Mom</Completion>
+        <Completion Scope="0">Smallvile Local Bank</Completion>
+        <Completion Scope="2">Marcus Mom</Completion>
+        <Completion Scope="2">Bank Clarck</Completion>
+        <Completion Scope="0">Josh Neighbourhood Sidewalk</Completion>
+        <Completion Scope="0">Community Pool Parking Lot</Completion>
+        <Completion Scope="0">Josh Room</Completion>
+        <Completion Scope="0">Patrick's Floor Halwat</Completion>
+        <Completion Scope="0">Josh Room / Room</Completion>
+        <Completion Scope="0">School Stage</Completion>
+        <Completion Scope="0">School Dinning Room</Completion>
+        <Completion Scope="0">School Change Room</Completion>
+        <Completion Scope="0">Marcus Appartment</Completion>
+        <Completion Scope="0">Marcus Parents House</Completion>
+        <Completion Scope="0">Local Buddy's Bar</Completion>
+        <Completion Scope="2">Claris</Completion>
+        <Completion Scope="0">A Coffee Shop In The Big City</Completion>
+        <Completion Scope="0">Various Places</Completion>
+        <Completion Scope="0">Marcus Appartment Enternce</Completion>
+        <Completion Scope="2">Bacchus</Completion>
+        <Completion Scope="0">Old Church</Completion>
+        <Completion Scope="2">Sergius</Completion>
+        <Completion Scope="2">Old Man</Completion>
+        <Completion Scope="0">Old Cathedral/ Street</Completion>
+        <Completion Scope="0">Patrick Apartment</Completion>
+        <Completion Scope="2">Tv Reporter</Completion>
+        <Completion Scope="0">Metropolitan Airport</Completion>
+        <Completion Scope="2">AIRPORT Girl No.1</Completion>
+        <Completion Scope="2">Airport Girl</Completion>
+        <Completion Scope="0">Airplain</Completion>
+        <Completion Scope="0">Smallvile Coffee Shop</Completion>
+        <Completion Scope="0">Electronic Store</Completion>
+        <Completion Scope="2">Justin</Completion>
+    </AutoCompleteList>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
